@@ -1,0 +1,12 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"Readme_Playmanity.md",
+  "name":"Readme_Playmanity.md",
+  "parent":{
+    "name":"Notes",
+    "path":"folders/Notes.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+  "shouldOpenOnLoad":true,
+}
